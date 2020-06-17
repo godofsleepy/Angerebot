@@ -1,0 +1,2 @@
+TOKEN="1220199129:AAHjBSgWi2VvlgNRIAGVEhE-Ziq-WU5JeLg"
+SAPA="Halo saya Angerebot"
